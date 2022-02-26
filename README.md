@@ -1,24 +1,3 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a simple app used to store lists of friends. It is powered by Ruby on Rails and uses the Devise gem for user management. It allows users to login and store lists of friends. It uses basic CRUD functionality.
